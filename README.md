@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 Hi there, I'm [Your Name]!
 
-<!--
-**Kiriakos41/Kiriakos41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate mobile app developer working with **.NET MAUI** to create modern, cross-platform applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑 About Me
+
+- 📅 Age: [Your Age]
+- 📧 Email: [your@email.com]
+- 🌍 Country: Greece 🇬🇷
+- 💻 I specialize in: **.NET MAUI**, **XAML**, **MVVM**, **SQLite**, and **C#**
+
+---
+
+### 🚀 What I Do
+
+I build beautiful and functional mobile apps with:
+- Cross-platform UI using **.NET MAUI**
+- Smooth user experiences with **MVVM**
+- Local data storage using **SQLite**
+- Push notifications and device features
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+
+---
+
+Feel free to reach out or collaborate! 😊
