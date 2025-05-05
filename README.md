@@ -1,31 +1,27 @@
-### 👋 Hi there, I'm [Your Name]!
+### 👋 Hi there, I'm Kyriakos Mourouzidis!
 
-I'm a passionate mobile app developer working with **.NET MAUI** to create modern, cross-platform applications.
+I'm a passionate mobile app developer using **.NET MAUI** to build modern, cross-platform applications with beautiful UI and powerful backend integrations.
 
 ---
 
 ### 🧑 About Me
 
-- 📅 Age: [Your Age]
-- 📧 Email: [your@email.com]
+- 📅 Age: 22
+- 📧 Email: kiriakos41@outlook.com
 - 🌍 Country: Greece 🇬🇷
-- 💻 I specialize in: **.NET MAUI**, **XAML**, **MVVM**, **SQLite**, and **C#**
+- 💬 Tech Stack: **.NET MAUI**, **C#**, **XAML**, **MVVM**, **SQLite**, **Firebase**
 
 ---
 
 ### 🚀 What I Do
 
-I build beautiful and functional mobile apps with:
-- Cross-platform UI using **.NET MAUI**
-- Smooth user experiences with **MVVM**
-- Local data storage using **SQLite**
-- Push notifications and device features
-
----
-
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+I create fully-featured mobile apps with:
+- 🌐 Cross-platform UI using **.NET MAUI**
+- 🧠 Clean architecture with **MVVM**
+- 📦 Local storage using **SQLite**
+- 🔥 Cloud integration with **Firebase**
+- 📨 Notifications and real-time features
+- 📱 Smooth, native-like performance
 
 ---
 
