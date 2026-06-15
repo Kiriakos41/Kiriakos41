@@ -6,7 +6,7 @@ I'm a passionate mobile app developer using **.NET MAUI** to build modern, cross
 
 ### 🧑 About Me
 
-- 📅 Age: 22
+- 📅 Age: 23
 - 📧 Email: kiriakos41@outlook.com
 - 🌍 Country: Greece 🇬🇷
 - 💬 Tech Stack: **.NET MAUI**, **C#**, **XAML**, **MVVM**, **SQLite**, **Firebase**
